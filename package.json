@@ -1,0 +1,8 @@
+{
+  "name": "tailwind-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/emanuelgsouza/tailwind-example.git",
+  "author": "Emanuel Souza <emanuelgdesouza@gmail.com>",
+  "license": "MIT"
+}
