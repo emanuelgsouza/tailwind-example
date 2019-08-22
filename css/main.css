@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.circle-round {
+    @apply w-40 h-40 bg-white rounded-full;
+}
